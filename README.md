@@ -6,4 +6,3 @@ Robot can navigate itself in any environment
 branch name is sravan
 ## created dummy folder and added .ignore folder
 
-### Added single cmd
